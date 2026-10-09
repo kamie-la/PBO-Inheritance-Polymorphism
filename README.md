@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Latihan PBO 5 - Inheritance dan Polymorphism
 
 Tugas **3B - Latihan/Eksplorasi Materi Inheritance dan Polymorphism**
@@ -206,3 +207,6 @@ Pewarisan memakai kata kunci `extends`.
 - `Bentuk` tidak memiliki `hitungLuas()` karena bentuk umum tidak punya rumus luas.
 - Nilai `PHI` yang dipakai adalah 3.14.
 - Hasil luas dan volume ditampilkan dengan 2 angka di belakang koma.
+=======
+# PBO-Inheritance-Polymorphism
+>>>>>>> a0a71cb66b6025462f14d0149a208caa7711e151
